@@ -1,11 +1,10 @@
 const nextConfig = {
-  output: 'export',
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: "export",
+  basePath: "/Portfolio",
+  assetPrefix: "/Portfolio/",
   images: {
     unoptimized: true,
   },
-}
+};
 
-export default nextConfig
+export default nextConfig;

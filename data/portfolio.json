@@ -1,0 +1,159 @@
+{
+  "personal": {
+    "name": "S. Nithish Kumar",
+    "title": "Data Science Student",
+    "email": "nithishkumar030305@gmail.com",
+    "phone": "+91 9629910281",
+    "linkedin": "s-nithishkumar",
+    "location": "Coimbatore, India",
+    "tagline": "Building intelligent solutions through data science, machine learning, and analytics"
+  },
+  "about": {
+    "summary": "A detail-focused and goal-oriented data science student with a solid academic foundation. Looking for an internship experience to execute hands-on work in data analysis, machine learning, and visualization, develop my skills, and contribute meaningfully to the discipline while learning and developing continuously.",
+    "highlights": [
+      "Currently pursuing Integrated MSc in Data Science (5-year program) at Amrita Vishwa Vidyapeetham",
+      "Strong foundation in Python, R, SQL, and modern data engineering tools",
+      "Experienced with machine learning frameworks including TensorFlow and PyTorch",
+      "Proficient in data visualization and statistical analysis"
+    ]
+  },
+  "education": {
+    "degree": "Integrated MSc in Data Science",
+    "institution": "Amrita Vishwa Vidyapeetham",
+    "location": "Coimbatore",
+    "duration": "2022 – Present",
+    "year": "4th Year (5-year program)",
+    "cgpa": "9.13/10"
+  },
+  "skills": {
+    "languages": ["Python", "R", "SQL"],
+    "tools": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Plotly", "TensorFlow", "PyTorch","UiPath"],
+    "concepts": ["Regression Analysis", "Multivariate Statistics", "Machine Learning", "Deep Learning"],
+    "dataEngineering": ["PostgreSQL", "Databricks", "Spark", "Hadoop", "MongoDB", "Cassandra"]
+  },
+  "experience": [
+    {
+      "title": "Consultant Intern",
+      "company": "Perficient India",
+      "location": "Chennai",
+      "duration": "Apr 2025 – May 2025",
+      "responsibilities": [
+        "Applied SQL (PostgreSQL), including CTEs, window functions, and complex joins, to design and optimize data queries for real-time business insights",
+        "Built and orchestrated data pipelines in Azure Databricks with Data Lake integration, Auto Loader streaming ingestion, and data transformation workflows",
+        "Developed Python solutions for file handling, logging, data manipulation (Pandas), and CRUD operations with PostgreSQL, improving data processing efficiency"
+      ],
+      "skills": ["PostgreSQL", "Azure Databricks", "Python", "Pandas", "Data Pipelines"]
+    },
+        {
+      "title": "Data Science Intern",
+      "company": "Helyxon Healthcare India",
+      "location": "Chennai",
+      "duration": "Sep 2025 – Present",
+      "skills": ["PostgreSQL", "Databricks", "Python", "FastAPI", "Mongodb","SendGrid"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "DataView Studio",
+      "description": "An interactive application for uploading, previewing, and analyzing datasets",
+      "highlights": [
+        "Implemented statistical computations including mean, variance, correlation, PCA, and regression analysis",
+        "Incorporated dynamic visuals including scatter plot, line chart, bar plot, box plot, violin plot and histograms"
+      ],
+      "technologies": ["Python", "Data Analysis", "Statistical Computing", "Visualization"]
+    },
+    {
+      "title": "Car Price Prediction & Recommendation",
+      "description": "Predicts selling price of preowned cars and provides personalized recommendations",
+      "highlights": [
+        "Analyzes factors such as brand, model, year, mileage, and market trends",
+        "Provides personalized car recommendations by analyzing user preferences, budget, and similar vehicle listings",
+        "Published as a conference paper"
+      ],
+      "technologies": ["Machine Learning", "Python", "Regression", "Recommendation Systems"]
+    },
+    {
+      "title": "Autonomous Car Parking RL Agent",
+      "description": "End-to-end autonomous parking solution using reinforcement learning",
+      "highlights": [
+        "Developed using Python, gymnasium, and stable-baselines3",
+        "Trained SAC agent achieving 80%+ parking success rate in randomized test scenarios",
+        "Implemented environment configuration and reward shaping"
+      ],
+      "technologies": ["Reinforcement Learning", "Python", "Gymnasium", "Stable-Baselines3"]
+    }
+  ],
+  "certifications": [
+    { "name": "R Programming (Basic)", "provider": "Coursera" },
+    { "name": "SQL for Data Science", "provider": "Great Learning Academy" },
+    { "name": "PostgreSQL Project - Solving Employee Records Queries", "provider": "Infosys Springboard" }
+  ],
+  "achievements": {
+    "leetcode": ["SQL50", "50 Days Badge 2025", "Introduction to Pandas"],
+    "hackerrank": [
+      "SQL (Silver Level)",
+      "SQL (Basic)",
+      "SQL (Intermediate)",
+      "Problem Solving (Basic)",
+      "Python (Basics)"
+    ],
+    "kaggle": ["Intro to Machine Learning", "Intermediate Machine Learning", "Python"]
+  },
+  "codingProfiles": [
+    {
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/",
+      "username": "nithishkumar",
+      "badges": ["SQL50", "50 Days Badge 2025", "Introduction to Pandas"],
+      "description": "Active problem solver focusing on SQL and data structures"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/",
+      "username": "nithishkumar",
+      "description": "Open source contributions and project repositories"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/s-nithishkumar",
+      "username": "s-nithishkumar",
+      "description": "Professional networking and career updates"
+    },
+    {
+      "platform": "HackerRank",
+      "url": "https://hackerrank.com/",
+      "username": "nithishkumar",
+      "badges": ["SQL Silver", "Problem Solving Basic", "Python Basics"],
+      "description": "Skill certifications and coding challenges"
+    },
+    {
+      "platform": "Kaggle",
+      "url": "https://kaggle.com/",
+      "username": "nithishkumar",
+      "badges": ["Intro to ML", "Intermediate ML", "Python"],
+      "description": "Machine learning competitions and datasets"
+    }
+  ],
+  "languages": [
+    { "name": "English", "level": "Proficient" },
+    { "name": "Tamil", "level": "Native" },
+    { "name": "Telugu", "level": "Basic (spoken only)" }
+  ],
+  "extracurricular": [
+    {
+      "title": "Sevanavaram Program Volunteer",
+      "date": "September 2023",
+      "description": "Participated in a cleaning initiative as part of Mata Amritanandamayi's 70th birthday celebrations"
+    },
+    {
+      "title": "NSS Camp (Unit-5)",
+      "date": "March 2024",
+      "description": "Renovated a school in a remote area and organized educational games for children"
+    },
+    {
+      "title": "24hr Hackathon",
+      "date": "September 2025",
+      "description": "Developed a full-stack onboarding solution with FastAPI, Firebase, Zapier, and DocuSign integration"
+    }
+  ]
+}

@@ -13,7 +13,8 @@ export const metadata: Metadata = {
   authors: [{ name: "S. Nithish Kumar" }],
   openGraph: {
     title: "S. Nithish Kumar | Data Science Portfolio",
-    description: "Data Science student specializing in machine learning, data analysis, and visualization.",
+    description:
+      "Data Science student specializing in machine learning, data analysis, and visualization.",
     type: "website",
   },
 }
@@ -31,7 +32,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`font-sans antialiased`}>{children}</body>
+      <body className={`${inter.className} font-sans antialiased`}>
+        {children}
+      </body>
     </html>
   )
 }
